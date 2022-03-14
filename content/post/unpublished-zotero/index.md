@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Creating Unpublished Work on Zotero"
+title: "Unpublished Work on Zotero"
 subtitle: "Use item type: Thesis"
 summary: "If trying to format unpublished work according to APA guidelines, the best way to do it on Zotero is putting the using item type = Thesis"
 authors: [admin]

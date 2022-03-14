@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "My Top Descriptive Statistics Function in R"
+title: "My Top Descriptive Statistics Functions in R"
 subtitle: ""
 summary: "Describing and summarizing data in R"
 authors: [admin]
