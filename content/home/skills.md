@@ -5,11 +5,12 @@ widget: featurette
 
 # This file represents a page section.
 headless: true
+Active: false
 
 # Order that this section appears on the page.
 weight: 30
 
-title: Skills
+title: Skills [Level of Confidence]
 subtitle:
 
 # Showcase personal skills or business features.
@@ -24,6 +25,10 @@ feature:
   icon: chart-line
   icon_pack: fas
   name: Statistics
+- description: 100%
+  icon: fa-brain
+  icon_pack: far
+  name: Rorschach
 - description: 10%
   icon: camera-retro
   icon_pack: fas
