@@ -37,9 +37,9 @@ If trying to format unpublished work according to APA guidelines, the best way t
 
 For `Item Type`, select `Thesis`.
 
-For `Type`, describe the kinf of unpublished work, e.g., `Unpublished doctoral dissertation`, `Unpublished Thesis`, `Unpublished scoring manual`, `Manuscript tubmitted for publication` and so on (no need to put square-brakets, Zotero will do it automatically).
+For `Type`, describe the kinf of unpublished work, e.g., `Unpublished doctoral dissertation`, `Unpublished Thesis`, `Unpublished scoring manual`, `Manuscript submitted for publication` and so on (no need to put square-brakets, Zotero will do it automatically).
 
-For `University`, put the entire description for deparment and university (or place). E.g., `Deparment of Psychology, University of Toledo`
+For `University`, put the entire description for deparment and university (or place). E.g., `Department of Psychology, University of Toledo`
 
 Zotero will create a reference like that:
 
