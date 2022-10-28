@@ -48,5 +48,3 @@ usethis::use_git()
 # Second, send everything to GitHub
 usethis::use_github()
 ```
-
-If unclear, [read this](https://happygitwithr.com/existing-github-last.html)
