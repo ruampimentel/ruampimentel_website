@@ -39,9 +39,8 @@ Anyway. Here is the easiest path I found to create a GitHub repository and conne
 The step-by-step and full explanation is explained [here](https://happygitwithr.com/existing-github-last.html).
 
 For now, that is the important thing:
-Open the Rproject on Rstudio. 
-follow the steps below:
-
+  1. Open the Rproject on Rstudio. 
+  2. follow the steps below:
 
 ```R
 # First, setup git for this project with
