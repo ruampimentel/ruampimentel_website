@@ -51,3 +51,5 @@ usethis::use_github()
 
 
 Bonus tip: use [.gitignore and don't sync entire folder](https://www.educative.io/answers/how-to-add-folder-to-gitignore)
+
+Bonuis tip2: check out git [cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf)
