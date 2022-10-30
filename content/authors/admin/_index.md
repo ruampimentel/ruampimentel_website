@@ -74,7 +74,7 @@ email: "ruampimentel@gmail.com"
 highlight_name: true
 ---
 
-{{% callout note %}}
+{{% callout warning %}}
 website under construction
 {{% /callout %}}
 
