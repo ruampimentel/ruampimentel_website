@@ -48,3 +48,6 @@ usethis::use_git()
 # Second, send everything to GitHub
 usethis::use_github()
 ```
+
+
+Bonus tip: use [.gitignore and don't sync entire folder](https://www.educative.io/answers/how-to-add-folder-to-gitignore)
