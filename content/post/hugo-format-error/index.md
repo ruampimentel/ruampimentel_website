@@ -30,9 +30,9 @@ projects: []
 
 It took me about 40 min to fix this 'simple' issue. 
 
-The bug below appear for me after updating wowchemy. I use [wowchemy](https://wowchemy.com/) and [hugo](https://gohugo.io/) to run this website.
+The bug below appears for me after updating wowchemy. I use [wowchemy](https://wowchemy.com/) and [hugo](https://gohugo.io/) to run this website.
 
-The essential part of the steps I took to solve this problem came from [Justin Pearson post](https://user.it.uu.se/~justin/Hugo/post/hugo_module_fail/). However their fix was not enough for me. So I had to find more info.
+The essential part of the steps I took to solve this problem came from [Justin Pearson post](https://user.it.uu.se/~justin/Hugo/post/hugo_module_fail/). However, their fix was not enough for me. So I had to find more info.
 
 Other part came from [wowchemy docs](https://wowchemy.com/docs/hugo-tutorials/troubleshooting/#error-failed-to-resolve-output-format).
 
