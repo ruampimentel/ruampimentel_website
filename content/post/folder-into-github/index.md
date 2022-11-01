@@ -46,7 +46,7 @@ You can see the step by step explained [here](https://github.com/git-guides/git-
 
     Where it says <directory> you will put the directory path. (e.g., `/Users/ruampimentel/Library/CloudStorage/OneDrive/my-project` )
 
-### Step 2 - connect git repository iwth github
+### Step 2 - connect git repository with github
 
 Then the easist one for me is to do [this](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/adding-and-cloning-repositories/adding-a-repository-from-your-local-computer-to-github-desktop)
 
