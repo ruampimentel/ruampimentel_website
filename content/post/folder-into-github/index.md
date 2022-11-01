@@ -28,12 +28,12 @@ image:
 projects: []
 ---
 
-Sometime I want to link a folder from my pc (or mac) with github, and I'm not using Rstudio on that folder. I'm only syncing other kind of projects with no 'coding' or 'syntax'. 
+Sometimes,  I want to link a folder from my pc (or mac) with GitHub, and I'm not using Rstudio on that folder. I'm only syncing other kinds of projects with no 'coding' or 'syntax'. 
 
 So here is what you should do:
 
-1. First we have to turn my directory (i.e., folder) into a git repository. 
-2. Then I can link that git repository with github in many ways. 
+1. First, we have to turn my directory (i.e., folder) into a git repository. 
+2. Then I can link that git repository with GitHub in many ways. 
 
 ### Step 1 - Turn a directory into a git repository
 
@@ -50,11 +50,11 @@ You can see the step by step explained [here](https://github.com/git-guides/git-
 
 Then the easist one for me is to do [this](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/adding-and-cloning-repositories/adding-a-repository-from-your-local-computer-to-github-desktop)
 
-- I use github desktop to connect
-- Open github desktop
+- I use GitHub desktop to connect
+- Open GitHub desktop
 - Go to 'file'
-- select 'Add local Repository...''
-- Accept the setting.
+- Select 'Add local Repository...''
+- Accept the settings.
 - Done ;)
 
 
