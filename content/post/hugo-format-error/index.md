@@ -36,7 +36,7 @@ The essential part of the steps I took to solve this problem came from [Justin P
 
 Other part came from [wowchemy docs](https://wowchemy.com/docs/hugo-tutorials/troubleshooting/#error-failed-to-resolve-output-format).
 
-##  The errors
+##  The error
 
 `Error: from config: failed to resolve output format "headers" from
 site config`
@@ -62,6 +62,6 @@ Steps
 
 Everything might back to normal :D
 
-## Explanation of the problem
+# Explanation of the problem
 
 Unfortunely, when wowchemy have some updates, sometimes, it doesn't update some features like the ones we saw above. Hence, the old cache creates a bug with the updated version from wowchemy. 
