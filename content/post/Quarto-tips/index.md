@@ -42,9 +42,9 @@ Example. I can create an APA-7ed-style word file, and export my text, figures, a
 ## Summary of the tutorial
 Basically, you only need:
 1. Add the .docx file with the style ([example](https://drive.google.com/drive/folders/1eBVPgOClTyuX9uff1po5Vj1tpmXODx76)) in the same folder as the Quarto file. 
-2. Add the following syntax to at top of the file:
+2. Add the following syntax to at the top of the file:
 
-```r
+```{r} 
 format:  
   docx:
     reference-doc: custom-reference-doc.docx
