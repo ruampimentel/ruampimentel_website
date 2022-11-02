@@ -28,6 +28,7 @@ image:
 projects: []
 ---
 
+# Exporting as .docx as APA format
 Those are tips and reminders to myself... Enjoy if they are useful for you too. 
 
 
