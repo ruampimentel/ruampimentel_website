@@ -12,6 +12,8 @@ tags:
   - zotero
 categories: 
 projects: []
+
+show_related: true
 image:
   caption: ""
   focal_point: ""
