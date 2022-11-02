@@ -41,7 +41,7 @@ Example. I can create a APA 7ed style, and export my writing to APA.
 
 ## Summary of the tutorial
 Basically, you only need:
-1. Add the .docx file with the style in the same folder as the Quarto file. 
+1. Add the .docx file with the style ([example](https://drive.google.com/drive/folders/1eBVPgOClTyuX9uff1po5Vj1tpmXODx76)) in the same folder as the Quarto file. 
 2. Add the following syntax to at top of the file:
 
 ```r
