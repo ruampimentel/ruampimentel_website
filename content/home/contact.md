@@ -9,14 +9,14 @@ headless: true
 weight: 130
 
 title: Contact
-subtitle:
+subtitle: ''
 
 content:
   # Automatically link email and phone or display as text?
   autolink: true
   
   # Email form provider
-  form:
+  form: 
     provider: netlify
     formspree:
       id:
@@ -53,5 +53,5 @@ content:
   #    link: 'https://zoom.com'
 
 design:
-  columns: '2'
+  columns: '1'
 ---
