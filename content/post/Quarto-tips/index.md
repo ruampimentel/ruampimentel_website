@@ -28,12 +28,12 @@ image:
 projects: []
 ---
 
-Those are tips and reminders to myself... Enjoy if they are useful for you to. 
+Those are tips and reminders to myself... Enjoy if they are useful for you too. 
 
 
-Using Quarto (On Rstduio) I can export to a Word document with a specific style.
+Using Quarto (on Rstudio) I can export to a Word document with a specific style.
 
-Example. I can create a APA 7ed style, and export my writing to APA. 
+Example. I can create an APA-7ed-style word file, and export my text, figures, and tables to APA format. 
 
 [Click here](https://quarto.org/docs/output-formats/ms-word-templates.html) to see a tutorial on how to do it. 
 
