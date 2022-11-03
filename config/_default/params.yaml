@@ -18,7 +18,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
+    description: 'Academic resume and blog post about psychology, neuropsychology and data science.'
     twitter: 'wowchemy'
   analytics:
     google_analytics: ''
@@ -26,6 +26,7 @@ marketing:
   verification:
     google: ''
     baidu: ''
+    bing: ''
 
 # Site header
 
