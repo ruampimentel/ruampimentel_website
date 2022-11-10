@@ -30,5 +30,5 @@ projects: []
 
 This is a great tool for exporting references from Word to Zotero. Considering the references were at some point already linked to Zotero: [Reference Extractor](https://rintze.zelle.me/ref-extractor/)
 
-In case the references are just in plain text, and it was never linked to zotero, we can [generate BIBTex entry from plain text](http://www.snowelm.com/~t/doc/tips/makebib.en.html)
+In case the references are just in plain text, and it was never linked to Zotero, we can [generate BIBTex entry from plain text](http://www.snowelm.com/~t/doc/tips/makebib.en.html)
 
