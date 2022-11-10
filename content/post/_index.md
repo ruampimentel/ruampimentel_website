@@ -1,5 +1,5 @@
 ---
-title: Blog Posts
+title: Blog Posts - Better, tips for my future self!
 type: page
 
 view: 2
