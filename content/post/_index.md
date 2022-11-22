@@ -14,6 +14,6 @@ Most of these posts are info I write to my future self.
 
 Enjoy it!
 
-
+For more R info, check here: https://www.r-bloggers.com/
 
 ---
