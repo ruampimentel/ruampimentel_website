@@ -37,7 +37,7 @@ Piaget, J., & Inhelder, B. (1969). *The psychology of the child* (H. Weaver, Tra
 **Parenthetical citation:** (Piaget & Inhelder, 1966/1969) </br>
 **Narrative citation:** Piaget and Inhelder (1966/1969)
 
-To set zotero to give you a translation exactly like this, just take the following steps:
+To set zotero to give you a citation and reference exactly like these, just take the following steps:
 1. After adding the `Author`s, include one more `Author` area, by clicking in the `+`icon (see image)
 2. Change the new `Author` to `Translator`, add the translators name.
 3. In the `Extra` field, add `original-date: 1982` (put the specific data).
