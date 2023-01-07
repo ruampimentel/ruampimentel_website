@@ -44,6 +44,8 @@ For now, that is the important thing:
   2. follow the steps below:
 
 ```R
+### RUN THIS DIRECTLY IN THE CONSOLE! ###
+# vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv ###
 # First, setup git for this project with
 usethis::use_git()
 # Second, send everything to GitHub
