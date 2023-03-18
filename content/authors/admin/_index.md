@@ -7,7 +7,7 @@ title: Ruam Pimentel
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Student
+role: Ph.D. Candidate - [See my CV](https://ruampimentel.github.io/Pimentel_CV/cv.html)
 
 # Organizations/Affiliations to show in About widget
 organizations:
