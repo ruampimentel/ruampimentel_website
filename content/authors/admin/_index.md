@@ -7,12 +7,12 @@ title: Ruam Pimentel
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Candidate - [See my CV](https://ruampimentel.github.io/Pimentel_CV/cv.html)
+role: Postdoctoral Fellow in Assessment Data Science - [See my CV](https://ruampimentel.github.io/Pimentel_CV/cv.html)
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: The University of Toledo
-  url: https://www.utoledo.edu/
+- name: R-PAS
+  url: https://r-pas.org/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Personality, Psychological Assessment, Neuroscience, Data Science. **Do you want to support me? [Click here to buy me a coffee](https://www.buymeacoffee.com/ruampimentel)**
@@ -30,7 +30,7 @@ education:
   courses:
   - course: PhD in Experimental Psychology 
     institution: The University of Toledo (USA)
-    year: in progress (2024)
+    year: 2024
   - course: Master in Psychology 
     institution: Universidade São Francisco (Brazil)
     year: 2019
@@ -78,6 +78,6 @@ highlight_name: true
 website under construction
 {{% /callout %}}
 
-Hi, I am Ruam Pimentel (English pronunciation: "who-am"). I'm a Ph.D. Student in the Experimental Program at the Department of Pyschology at the University of Toledo. Recently, I've studied and nourished an interest in personality, neuroscience, psychometrics, and artificial intelligence. In my free time, I’m a musician, and I love to learn new hobbies. I've participated in research labs working on cognitive and emotional processes (attention, memory, and affect), mental health, and the elderly population.
+Hi, I am Ruam Pimentel (English pronunciation: "who-am"). I completed my PhD in Experimental Psychology at the Department of Psychology at the University of Toledo in May 2024. Since then, I have been working as a Postdoctoral Fellow in Assessment Data Science with R-PAS. I have a deep interest in personality, neuroscience, psychometrics, and artificial intelligence. In my free time, I’m a musician, and I love to learn new hobbies. I’ve participated in research labs working on cognitive and emotional processes (attention, memory, and affect), mental health, and the elderly population.
 
-Right now, I'm very curious about how different kinds of psychological measures could provide information about oneself (multimethod) and how someone’s different mental states could generate different perceptions of the world. Specifically I've been studying the Rorschach Method in the psychological assessment lab under the guidance of Dr. Gregory Meyer.
+My research focuses on how different kinds of psychological measures could provide information about oneself (multimethod) and how someone’s different mental states could generate different perceptions of the world. I have been studying the Rorschach Method in psychological assessment, including work under the guidance of Dr. Gregory Meyer.
