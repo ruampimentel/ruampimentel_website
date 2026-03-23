@@ -34,6 +34,9 @@ education:
   - course: Master in Psychology 
     institution: Universidade São Francisco (Brazil)
     year: 2019
+  - course: Specialization in Neuroscience
+    institution: Universidade Federal de São Paulo (Brazil)
+    year: 2019
   - course: BSc in Psychology
     institution: CEULP/ULBRA (Brazil)
     year: 2017
